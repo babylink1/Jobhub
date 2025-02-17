@@ -15,18 +15,7 @@ Job Hub is an AI-powered job search management platform that helps job seekers e
 ✅ Networking Insights: Identify key contacts at target companies to boost referral chances.  
 ✅ Salary Insights & Market Trends: Data-driven salary benchmarking to help negotiate offers.
 
----
 
-## 🛠️ Tech Stack
-
-| Technology  | Purpose  |
-|-------------|---------|
-| **Frontend**  | React, Tailwind CSS, D3.js |
-| **Backend**  | Node.js, Express.js, Python (FastAPI) |
-| **Database**  | PostgreSQL, MongoDB |
-| **Cloud & DevOps**  | AWS (S3, Lambda, EC2), Docker, Kubernetes |
-| **AI & Data Science**  | OpenAI API, TensorFlow, NLP for resume analysis |
-| **Authentication**  | OAuth, JWT, Firebase Auth |
 
 ---
 
