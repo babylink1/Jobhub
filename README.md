@@ -48,6 +48,8 @@ git clone https://github.com/your-username/job-hub.git
 cd job-hub
 
 ### 2️⃣ Install Dependencies
+```bash
+
 # Backend
 cd backend
 npm install  # or pip install -r requirements.txt (for Python backend)
@@ -57,7 +59,7 @@ cd ../frontend
 npm install
 
 ### 3️⃣ Run the Application
-
+```bash
 # Backend (Node.js)
 npm run dev
 
@@ -66,6 +68,7 @@ npm start
 
 
 ## How to Use:
+ ```bash
 1. Copy this content into your project's `README.md` file.
 2. Replace `https://your-image-url.com` with an actual banner image URL.
 3. Replace `https://jobhub.example.com` with the live demo URL.
