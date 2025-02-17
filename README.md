@@ -38,28 +38,21 @@ Job Hub is an AI-powered job search management platform that helps job seekers e
 🔹 Looking for higher salaries?   Gain market insights and refine your job search strategy.
 
 
----
 
-## 📦 Getting Started
-
-### 1️⃣ Clone the Repository
-```bash
 git clone https://github.com/your-username/job-hub.git
 cd job-hub
 
-### 2️⃣ Install Dependencies
-```bash
+Install Dependencies
 
-# Backend
 cd backend
 npm install  # or pip install -r requirements.txt (for Python backend)
 
-# Frontend
+
 cd ../frontend
 npm install
 
-### 3️⃣ Run the Application
-```bash
+###  Run the Application
+
 # Backend (Node.js)
 npm run dev
 
@@ -68,7 +61,7 @@ npm start
 
 
 ## How to Use:
- ```bash
+
 1. Copy this content into your project's `README.md` file.
 2. Replace `https://your-image-url.com` with an actual banner image URL.
 3. Replace `https://jobhub.example.com` with the live demo URL.
