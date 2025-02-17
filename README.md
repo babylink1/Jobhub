@@ -32,12 +32,11 @@ Job Hub is an AI-powered job search management platform that helps job seekers e
 
 ## 🎯 Why Job Hub?
 
-🔹 **Tired of losing track of applications?** Our intuitive dashboard helps you organize everything.  
-🔹 **Struggling with resume rejections?** AI-powered resume analysis boosts your chances.  
-🔹 **Want to improve interview performance?** Get structured preparation with real-world problems.  
-🔹 **Looking for higher salaries?** Gain market insights and refine your job search strategy.
+🔹 Tired of losing track of applications? Our intuitive dashboard helps you organize everything.  
+🔹 Struggling with resume rejections? AI-powered resume analysis boosts your chances.  
+🔹 Want to improve interview performance? Get structured preparation with real-world problems.  
+🔹 Looking for higher salaries?   Gain market insights and refine your job search strategy.
 
-🔗 **Live Demo**: [https://jobhub.example.com](https://jobhub.example.com) *(Replace with actual link)*
 
 ---
 
@@ -66,7 +65,7 @@ npm run dev
 npm start
 
 
-## **How to Use:**
+## How to Use:
 1. Copy this content into your project's `README.md` file.
 2. Replace `https://your-image-url.com` with an actual banner image URL.
 3. Replace `https://jobhub.example.com` with the live demo URL.
