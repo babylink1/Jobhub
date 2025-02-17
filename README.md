@@ -38,8 +38,6 @@ Job Hub is an AI-powered job search management platform that helps job seekers e
 🔹 Looking for higher salaries?   Gain market insights and refine your job search strategy.
 
 
-
-git clone https://github.com/your-username/job-hub.git
 cd job-hub
 
 Install Dependencies
