@@ -1,19 +1,19 @@
 # 🚀 Job Hub - Your Ultimate Job Search Assistant
 
-**Job Hub** is an AI-powered job search management platform that helps job seekers efficiently track their applications, optimize their resumes, improve interview success rates, and receive personalized job recommendations.
+Job Hub is an AI-powered job search management platform that helps job seekers efficiently track their applications, optimize their resumes, improve interview success rates, and receive personalized job recommendations.
 
-![Job Hub Banner](https://your-image-url.com) *(Optional: Add an attractive banner image)*
+![Job Hub Banner](https://your-image-url.com) 
 
 ---
 
 ## 🌟 Key Features
 
-✅ **Application Tracking:** Easily track and manage job applications in one centralized dashboard.  
-✅ **Resume Optimization:** Get AI-driven suggestions to enhance your resume and increase visibility.  
-✅ **Interview Preparation:** Access a curated set of high-frequency interview questions and solutions.  
-✅ **Personalized Job Recommendations:** AI-powered matching to suggest the best-fit opportunities.  
-✅ **Networking Insights:** Identify key contacts at target companies to boost referral chances.  
-✅ **Salary Insights & Market Trends:** Data-driven salary benchmarking to help negotiate offers.
+✅ Application Tracking: Easily track and manage job applications in one centralized dashboard.  
+✅ Resume Optimization: Get AI-driven suggestions to enhance your resume and increase visibility.  
+✅ Interview Preparation: Access a curated set of high-frequency interview questions and solutions.  
+✅ Personalized Job Recommendations: AI-powered matching to suggest the best-fit opportunities.  
+✅ Networking Insights: Identify key contacts at target companies to boost referral chances.  
+✅ Salary Insights & Market Trends: Data-driven salary benchmarking to help negotiate offers.
 
 ---
 
